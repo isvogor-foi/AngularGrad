@@ -7,7 +7,7 @@ AngularGrad reduces the zig-zag effect in the optimization trajectory. Fluctuati
 ### Installation
 
 ```buildoutcfg
-pip install git+https://github.com/mhaut/AngularGrad
+pip install git+https://github.com/isvogor-foi/AngularGrad
 ```
 
 You can import the optimizer as follows:
